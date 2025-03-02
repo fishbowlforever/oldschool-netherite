@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  },
+  "result": "minecraft:diamond",
+  "experience": 2.00,
+  "cookingtime": 100
+}

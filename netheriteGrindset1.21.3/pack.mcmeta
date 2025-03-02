@@ -1,0 +1,82 @@
+{
+  "pack": {
+    "pack_format": 57,
+    "description": "Instead of using the Smithing Table, Netherite Equipment can be crafted like any other Equipment."
+  },
+  "filter": {
+    "block": [
+      {
+        "namespace": "minecraft",
+        "path": "recipe/netherite_helmet_smithing.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/netherite_chestplate_smithing.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/netherite_leggings_smithing.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/netherite_boots_smithing.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/netherite_axe_smithing.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/netherite_pickaxe_smithing.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/netherite_hoe_smithing.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/netherite_shovel_smithing.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "recipe/netherite_sword_smithing.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "advancement/tools/netherite_axe_smithing.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "advancement/recipes/tools/netherite_hoe_smithing.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "advancement/recipes/tools/netherite_pickaxe_smithing.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "advancement/recipes/tools/netherite_shovel_smithing.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "advancement/recipes/combat/netherite_boots_smithing.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "advancement/recipes/combat/netherite_chestplate_smithing.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "advancement/recipes/combat/netherite_helmet_smithing.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "advancement/recipes/combat/netherite_leggings_smithing.json"
+      },
+      {
+        "namespace": "minecraft",
+        "path": "advancement/recipes/combat/netherite_sword_smithing.json"
+      }
+    ]
+  }
+}
